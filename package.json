@@ -5,6 +5,9 @@
   "main": "main.js",
   "author": "thecoder08",
   "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "dependencies": {
     "nodemailer": "^6.4.2"
   }
