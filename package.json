@@ -1,6 +1,6 @@
 {
   "name": "@thecoder08/mailer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A package that uses nodemailer to send emails with gmail.",
   "main": "main.js",
   "author": "thecoder08",

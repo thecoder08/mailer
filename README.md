@@ -4,7 +4,7 @@ Mailer is a package that uses nodemailer to send emails with gmail.
 ## Installation
 Run the command
 ```shell
-npm i thecoder08-mailer
+npm i @thecoder08/mailer
 ```
 to install Mailer.
 ## Require
